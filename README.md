@@ -1,16 +1,12 @@
-### Register User
+## Register User
 
 -   **URL**
 
     `/register`
 
-<br>
-
 -   **Method**
 
     `POST`
-
-<br>
 
 -   **Request Body**
 
@@ -19,8 +15,6 @@
     | `username` | string | User's username      |
     | `email`    | string | User's email address |
     | `password` | string | User's password      |
-
-<br>
 
 -   **Success Response**
 
